@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:40px;
+    background-color:#eeeeee;
+    height:300px;
+    width:200px;
+    float:left;
+    padding:5px;
+}
+#nav2 {
+    line-height:40px;
+    background-color:#eeeeee;
+    height:300px;
+    width:200px;
+    float:right;
+    padding:5px;
+}
+#section {
+    width:300px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+
+<body>
+
+<div id="header">
+<h1>领先的Web技术教程</h1>
+</div>
+
+<div id="nav">
+HTML教程<br>
+CSS教程<br>
+XML教程<br>
+</div>
+
+<div id="nav2">
+HTML教程<br>
+CSS教程<br>
+XML教程<br>
+</div>
+
+<div id="section">
+<h2>HTML教程</h2>
+<p>
+Hypertext markup language -- an application under standard generalized markup language.
+</p>
+<p>
+Hypertext refers to non textual elements that contain pictures, links, and even music and programs within a page.
+</p>
+<p>The structure of hypertext markup language, including the "head" section (English: Head), and the main parts (English: Body), the "head" to provide information about the web page, the main parts provide details page.
+</p>
+</div>
+
+<div id="footer">
+Copyright ? W3Schools.com
+</div>
+
+</body>
+</html>
